@@ -1,5 +1,6 @@
 [package]
 name = "rust-hello-world"
+repository = "https://github.com/jeasai/rust-hello-world.git"
 version = "0.1.0"
 edition = "2021"
 
